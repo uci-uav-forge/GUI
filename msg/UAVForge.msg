@@ -1,0 +1,10 @@
+sensor_msgs/Image image
+string file_name
+string image_ID
+int64 num
+string shape 
+string shape_color
+string alphanum
+string alphanum_color
+string alphanum_ori
+float64[2] geo_loc
